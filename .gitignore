@@ -2,3 +2,5 @@ rw_venv/
 *phil*
 read_clients.py
 *except*
+employee_pay.py
+read_csv.py
