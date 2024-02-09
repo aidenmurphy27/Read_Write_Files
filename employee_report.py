@@ -78,3 +78,5 @@ for row in data:
         i += 1
 
 print(f"Total number of employees in their 40s: {i}")
+
+infile.close

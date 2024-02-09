@@ -18,3 +18,6 @@ for row in reader:
     print(f"Salary: $ {salary:>10,.2f}")
     print(f"Bonus:  $ {calc_bonus:>10,.2f}")
     print(f"Pay:    $ {calc_pay:>10,.2f}")
+    print()
+    
+infile.close
